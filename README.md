@@ -1,2 +1,1 @@
-Este é o meu primeiro README
-Vamos deixar assim
+Este é o meu primeiro README (alterado e atualizado)
